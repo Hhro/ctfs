@@ -9,13 +9,13 @@ Tag: Web, XXE
 
 Simple input/submit form
 
-![1545552814368](/home/hhro/.config/Typora/typora-user-images/1545552814368.png)
+![form](img/form.png)
 
 
 
 In html source, there is interesting function lol().
 
-![1545553195829](/home/hhro/.config/Typora/typora-user-images/1545553195829.png)
+![source](img/source.png)
 
 It's a common ajax xml function for sending request.
 
